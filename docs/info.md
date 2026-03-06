@@ -17,4 +17,4 @@ appplies input via switch and observes output via LEDs
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+not required
