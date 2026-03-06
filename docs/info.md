@@ -13,7 +13,7 @@ takes input and performs 1 bit addition
 
 ## How to test
 
-appplies input via switch and observes output via LEDs
+applies input via switch and observes output via LEDs
 
 ## External hardware
 
