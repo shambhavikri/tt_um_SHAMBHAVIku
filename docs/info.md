@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+takes input and performs 1 bit addition 
 
 ## How to test
 
-Explain how to use your project
+appplies input via switch and observes output via LEDs
 
 ## External hardware
 
